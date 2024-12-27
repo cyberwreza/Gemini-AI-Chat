@@ -14,7 +14,7 @@ A Python script that interacts with the Gemini API (1.5) to generate AI-powered 
 
 ## Requirements
 - Python 3.7 or higher
-- An API key for the Gemini API (required)
+- An API key for the Gemini API 
 
 ## Setup Instructions
 
@@ -27,11 +27,11 @@ A Python script that interacts with the Gemini API (1.5) to generate AI-powered 
    ```bash
    python GeminiAI.py
 
-3. Paste your Gemini API
+3. **Paste your Gemini API**
 
 
 
-***Contact me in Discord if you have any issues. -- 0p98***
+***Contact me in Discord if you have any issues. - 0p98***
 
 
 
