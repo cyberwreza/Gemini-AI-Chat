@@ -15,3 +15,8 @@ A Python script that interacts with the Gemini API (1.5) to generate AI-powered 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/cyberwreza/Gemini-AI-Chat
+
+
+2. Open the script
+```bash
+  python GeminiAI.py  
