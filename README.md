@@ -5,7 +5,10 @@ A Python script that interacts with the Gemini API (1.5) to generate AI-powered 
 ## Features
 - Interactive AI chat interface
 - Gemini API integration
+
+
 ![](Media1.PNG))
+![](Media2.PNG)) 
 
 
 
