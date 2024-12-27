@@ -31,7 +31,7 @@ A Python script that interacts with the Gemini API (1.5) to generate AI-powered 
 
 
 
-***Contact me in Discord if you have any issues. - 0p98***
+***Contact me in Discord if you have any questions. - 0p98***
 
 
 
