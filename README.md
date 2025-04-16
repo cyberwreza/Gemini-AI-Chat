@@ -1,13 +1,13 @@
 
 # Gemini AI Chat
 
-A static oscilloscope that visualizes incoming waveforms using ESP32 and an I2C 128x64 OLED.
+This script sends user input to the Gemini API and displays the generated response. The user can exit by typing "exit," "quit," or "bye."
 
 ## Features
--Live analog signal display (static, not scrolling)
--Grid and axis for voltage/time reference
--Smoothed waveform drawing
--Optimized for ESP32 (12-bit ADC on pin 36)
+-User Input: Prompts the user to input a Gemini API key and messages.
+-API Interaction: Sends the user’s input to the Gemini API and retrieves a response.
+-Display Response: Shows the generated response from the Gemini API.
+
 
 ![](Media1.PNG))
 ![](Media2.PNG)) 
