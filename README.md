@@ -1,6 +1,7 @@
-# ESP32 Oscilloscope
 
-This script turns your ESP32 microcontroller into a basic oscilloscope that displays waveforms on an SSD1306 128x64 I2C OLED display. It captures and visualizes analog signals, allowing you to view waveforms such as sine waves, PWM, or any other input from an analog source.
+# Gemini AI Chat
+
+A static oscilloscope that visualizes incoming waveforms using ESP32 and an I2C 128x64 OLED.
 
 ## Features
 -Live analog signal display (static, not scrolling)
@@ -12,23 +13,23 @@ This script turns your ESP32 microcontroller into a basic oscilloscope that disp
 ![](Media2.PNG)) 
 
 
-
 ## Requirements
-ESP32 development board
+- Python 3.7 or higher
+- An API key for the Gemini API 
 
-SSD1306 128x64 OLED display (I2C)
+## Setup Instructions
 
-Arduino IDE installed
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/cyberwreza/Gemini-AI-Chat
 
-**Libraries:**
-U8g2 (for OLED graphics)
-Arduino core for ESP32
+
+2. **Open the script**:
+   ```bash
+   python GeminiAI.py
+
+3. **Paste your Gemini API**
 
 
 
 ***Contact me in Discord if you have any questions. - 0p98***
-
-
-
-
-
